@@ -15,7 +15,5 @@ public class RWOnly {
         this.name = name;
     }
 
-    public RWOnly(String name) {
-        this.name = name;
-    }
+
 }
